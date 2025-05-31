@@ -5,34 +5,20 @@
                         <div id="w-node-_99ea3e60-7d78-d0c1-baa9-21d2e4b801ce-51e76b9e"
                             class="home-header-content padding-left">
                             <h1 data-w-id="24c430d1-92e8-9fbc-65a7-18ddfbc43b52" class="title home-v1-hero"><span
-                                    class="text-span">Unleashing</span> Joy, One Paw at a Time</h1>
+                                    class="text-span">Bio</span>Animalia Feed</h1>
                             <div class="spacer-small"></div>
-                            <p class="paragraph home-v1-hero">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Suspendisse varius enim in eros elementum tristique. </p>
-                            <div class="home-buttons-wrapper margin-top"><a href="adopt-pet.html "
-                                    data-w-id="aba9d0c6-fc02-c306-ac52-27cc2fef5980"
-                                    style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-                                    class="button-full w-inline-block">
-                                    <div style="color:rgb(53,76,8)" class="button-full-text-wrapper">
-                                        <div class="button-text">Adopt a Pet</div>
-                                    </div>
-                                    <div style="display: block; transform: translate3d(0px, 102%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-                                        class="button-full-background"></div>
-                                </a><a data-w-id="931cc432-3e5a-594d-9a1f-d9554e4008b0"
-                                    style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-                                    href="donation.html" class="button-outline w-inline-block">
-                                    <div style="color:rgb(142,204,20)" class="button-outline-text-wrapper">
-                                        <div class="button-text">Donate</div>
-                                    </div>
-                                    <div style="display: block; transform: translate3d(0px, 102%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
-                                        class="button-outline-background"></div>
-                                </a></div>
+                            <p class="paragraph home-v1-hero">Produits de qualité pour des animeaux en bonne santé. </p>
+                            <div class="home-buttons-wrapper margin-top">
+                                    
+                                  </div>
                         </div>
                         <div class="home-header-image"><img
                                 src="assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section.webp"
                                 loading="eager"
                                 sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 92vw, 963px"
-                                srcset="assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section-p-500.webp 500w, assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section-p-800.webp 800w, assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section.webp 963w"
+                                srcset="assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section-p-500.webp 
+                                500w, assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section-p-800.webp 800w,
+                                 assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section.webp 963w"
                                 alt="" class="hero-image">
                             <div id="w-node-e77953c5-c788-89a5-18ae-d4599855daf7-51e76b9e" class="home-hero-icon pet-1">
                                 <img src="assets/images/65fb19d7123e477c2197c30e_Header-Image-Placeholder-2.webp"
