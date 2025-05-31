@@ -45,9 +45,8 @@
 
 <body>
     <div id="page-wrapper" class="page-wrapper">
-           <?php include('structure/_navbar.php'); ?>
-
-        <main class="main-wrapper">
+    <?php include('structure/_navbar.php'); ?>
+<main class="main-wrapper">
             <section id="hero-section" class="section padding-global padding-section-medium hero">
                 <div class="w-layout-blockcontainer container-large w-container">
                     <div class="w-layout-grid home-hero-wrapper">
