@@ -24,7 +24,7 @@
     <meta property="og:type" content="website">
     <meta content="summary_large_image" name="twitter:card">
     <meta content="width=device-width, initial-scale=1" name="viewport">
-    <meta content="Webflow" name="generator">
+    <meta content="bioanimalia feed" name="generator">
     <link href="https://cdn.prod.website-files.com/65c75049e171bdd6b12f3e86/css/animal-cove.cf9ced93a.min.css"
         rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com" rel="preconnect">
