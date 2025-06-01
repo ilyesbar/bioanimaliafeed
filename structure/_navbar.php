@@ -100,10 +100,8 @@
                                                 data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35089" href="about.php"
                                                 class="nav-pet-grid w-inline-block" tabindex="0">
                                                 <div class="navbar-featured-image"><img
-                                                        src="assets/images/65ddebbe0a8bb8225c2d2f15_pexels-mikhail-nilov-7470753.webp"
-                                                        loading="lazy" sizes="100vw"
-                                                        srcset="assets/images/65ddebbe0a8bb8225c2d2f15_pexels-mikhail-nilov-7470753-p-500.webp 500w, assets/images/65ddebbe0a8bb8225c2d2f15_pexels-mikhail-nilov-7470753-p-800.webp 800w, assets/images/65ddebbe0a8bb8225c2d2f15_pexels-mikhail-nilov-7470753-p-1080.webp 1080w, assets/images/65ddebbe0a8bb8225c2d2f15_pexels-mikhail-nilov-7470753.webp 1500w"
-                                                        alt="" class="nav-image-style"
+                                                        src="assets/images/BAF_Logo_1.jpg"
+                                                        loading="lazy" alt="" class="nav-image-style"
                                                         style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                                                 </div>
                                                 <div class="nav-link-box">
@@ -111,32 +109,33 @@
                                                     <p class="paragraph-small">Lorem ipsum dolor sit amet, consectetur
                                                         adipiscing elit. </p>
                                                 </div>
-                                            </a><a data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35091" href="./team"
+                                            </a><a data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35091" href="./team.php"
                                                 class="nav-pet-grid w-inline-block" tabindex="0">
                                                 <div class="navbar-featured-image"><img
-                                                        src="assets/images/gerant.JPG"
+                                                        src="assets/images/gerant.jpg"
                                                         loading="lazy" alt="" class="nav-image-style"
                                                         style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                                                 </div>
                                                 <div class="nav-link-box">
-                                                    <h4 class="nav-link-style">Moussa Chafai</h4>
-                                                    <p class="paragraph-small"> Gérant </p>
+                                                    <h4 class="nav-link-style">Gérant</h4>
+                                                    <p class="paragraph-small"> m.chafai@bioanimalia.com </p>
+                                                    <p class="paragraph-small"> 0561 62 99 45 <br> 0699 33 85 41</p>
+
                                                 </div>
                                             </a><a data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35099"
-                                                href="donation.php-v3" class="nav-pet-grid w-inline-block"
+                                                href="./team.php" class="nav-pet-grid w-inline-block"
                                                 tabindex="0">
                                                 <div class="navbar-featured-image"><img
-                                                        src="assets/images/661a25e3df15afb98acee214_GOLDEN%20RETRIEVER.webp"
-                                                        loading="lazy" sizes="100vw"
-                                                        srcset="assets/images/661a25e3df15afb98acee214_GOLDEN%20RETRIEVER-p-500.webp 500w, assets/images/661a25e3df15afb98acee214_GOLDEN%20RETRIEVER-p-800.webp 800w, assets/images/661a25e3df15afb98acee214_GOLDEN%20RETRIEVER.webp 1000w"
-                                                        alt="" class="nav-image-style"
+                                                        src="assets/images/cogerant.jpg"
+                                                        loading="lazy" alt="" class="nav-image-style"
                                                         style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                                                 </div>
                                                 <div class="nav-link-box">
-                                                    <h4 class="nav-link-style">Billel Charef
+                                                    <h4 class="nav-link-style">Cogérant
 
                                                     </h4>
-                                                      <p class="paragraph-small"> Cogérant </p>
+                                                      <p class="paragraph-small"> b.charef@bioanimalia.com </p>
+                                                      <p class="paragraph-small">  0779 62 82 78</p>
                                                 </div>
                                             </a></div>
                                     </div>
