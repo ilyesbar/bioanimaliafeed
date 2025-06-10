@@ -106,8 +106,8 @@
                                                 </div>
                                                 <div class="nav-link-box">
                                                     <h4 class="nav-link-style">À propos de nous</h4>
-                                                    <p class="paragraph-small">Lorem ipsum dolor sit amet, consectetur
-                                                        adipiscing elit. </p>
+                                                    <p class="paragraph-small">Leader en matières premières pour l’alimentation animale en Algérie.
+                                                         </p>
                                                 </div>
                                             </a><a data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35091" href="./gerant.php"
                                                 class="nav-pet-grid w-inline-block" tabindex="0">
