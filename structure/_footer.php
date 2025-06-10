@@ -41,12 +41,14 @@
 
                            
                             <div id="w-node-_9684380e-b5cd-659b-56da-370ab0bbea75-b0bbea44" class="footer-resource-bav">
-                                <h4 class="title footer">Resources</h4><a href="/blog-v1"
-                                    class="footer-nav-links">Blog</a><a href="/template-resources/changelog"
-                                    class="footer-nav-links">Changelog</a><a href="/template-resources/license"
-                                    class="footer-nav-links">Licensing</a><a href="/template-resources/style-guide"
-                                    class="footer-nav-links">Style Guide</a><a href="/template-resources/instructions"
-                                    class="footer-nav-links">Instructions</a>
+                                <h4 class="title footer"> Notre équipe </h4>
+                                <a href="./gerant.php"
+                                        class="footer-nav-links">Moussa Chafai</a>
+                                   
+                                    <a href="./cogerant.php"
+                                        class="footer-nav-links">Billel Charef</a>
+                           
+                                   
                             </div>
                             <div id="w-node-_9684380e-b5cd-659b-56da-370ab0bbea82-b0bbea44" class="footer-follow-nav">
                                 <div class="footer-social-icons-wrapper">

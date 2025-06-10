@@ -32,17 +32,17 @@
                                     aria-labelledby="w-dropdown-toggle-2">
                                     <div class="dropdown-list-wrapper">
                                         <div class="w-layout-grid nav-grid-wrapper"><a
-                                                data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35068" href="./blog-v1.php"
+                                                data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35068" href="./products.php"
                                                 class="nav-pet-grid w-inline-block" tabindex="0">
                                                 <div class="navbar-featured-image"><img
                                                         src="assets/images/66255622d980aa1cba044193_Blog%20Post%20Image-1.webp"
                                                         loading="lazy" sizes="100vw"
-                                                        srcset="assets/images/66255622d980aa1cba044193_Blog%20Post%20Image-1-p-500.webp 500w, assets/images/66255622d980aa1cba044193_Blog%20Post%20Image-1-p-800.webp 800w, assets/images/66255622d980aa1cba044193_Blog%20Post%20Image-1-p-1080.webp 1080w, assets/images/66255622d980aa1cba044193_Blog%20Post%20Image-1.webp 1296w"
+                                                        srcset="assets/images/poule_viande.jpg"
                                                         alt="A puppy in a cage looking out" class="nav-image-style"
                                                         style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                                                 </div>
                                                 <div class="nav-link-box">
-                                                    <h4 class="nav-link-style">Blog</h4>
+                                                    <h4 class="nav-link-style">produit1</h4>
                                                     <p class="paragraph-small">Lorem ipsum dolor sit amet, consectetur
                                                         adipiscing elit. </p>
                                                 </div>
@@ -50,14 +50,14 @@
                                               
                                                 class="nav-pet-grid w-inline-block" tabindex="0">
                                                 <div class="navbar-featured-image"><img
-                                                        src="assets/images/662556419b147b5ace61a1af_Blog%20Post%20Image-13.webp"
+                                                        src="assets/images/poule3.jpeg"
                                                         loading="lazy" sizes="100vw"
-                                                        srcset="assets/images/662556419b147b5ace61a1af_Blog%20Post%20Image-13-p-500.webp 500w, assets/images/662556419b147b5ace61a1af_Blog%20Post%20Image-13.webp 954w"
+                                                        srcset="assets/images/poule3.jpeg"
                                                         alt="" class="nav-image-style"
                                                         style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                                                 </div>
                                                 <div class="nav-link-box">
-                                                    <h4 class="nav-link-style">News</h4>
+                                                    <h4 class="nav-link-style">produit2</h4>
                                                     <p class="paragraph-small">Lorem ipsum dolor sit amet, consectetur
                                                         adipiscing elit. </p>
                                                 </div>
@@ -65,14 +65,14 @@
                                                
                                                 class="nav-pet-grid w-inline-block" tabindex="0">
                                                 <div class="navbar-featured-image"><img
-                                                        src="assets/images/661abe3253391f0f2af2dc6a_pexels-anna-tarazevich-5763552.webp"
+                                                        src="assets/images/poule4.jpg
                                                         loading="lazy" sizes="100vw"
-                                                        srcset="assets/images/661abe3253391f0f2af2dc6a_pexels-anna-tarazevich-5763552-p-500.webp 500w, assets/images/661abe3253391f0f2af2dc6a_pexels-anna-tarazevich-5763552.webp 778w"
+                                                        srcset="assets/images/poule4.jpg"
                                                         alt="" class="nav-image-style"
                                                         style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                                                 </div>
                                                 <div class="nav-link-box">
-                                                    <h4 class="nav-link-style">Events</h4>
+                                                    <h4 class="nav-link-style">produit3</h4>
                                                     <p class="paragraph-small">Lorem ipsum dolor sit amet, consectetur
                                                         adipiscing elit. </p>
                                                 </div>
@@ -109,7 +109,7 @@
                                                     <p class="paragraph-small">Lorem ipsum dolor sit amet, consectetur
                                                         adipiscing elit. </p>
                                                 </div>
-                                            </a><a data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35091" href="./team.php"
+                                            </a><a data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35091" href="./gerant.php"
                                                 class="nav-pet-grid w-inline-block" tabindex="0">
                                                 <div class="navbar-featured-image"><img
                                                         src="assets/images/gerant.jpg"
@@ -123,7 +123,7 @@
 
                                                 </div>
                                             </a><a data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35099"
-                                                href="./team.php" class="nav-pet-grid w-inline-block"
+                                                href="./cogerant.php" class="nav-pet-grid w-inline-block"
                                                 tabindex="0">
                                                 <div class="navbar-featured-image"><img
                                                         src="assets/images/cogerant.jpg"

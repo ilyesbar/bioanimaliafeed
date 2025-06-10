@@ -13,27 +13,34 @@
                                   </div>
                         </div>
                         <div class="home-header-image"><img
-                                src="assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section.webp"
+                                src="assets/images/poule_viande.jpg"
+                               style=" border-radius: 50%;border: 15px solid var(--secondary);margin-top :30px;"
                                 loading="eager"
                                 sizes="(max-width: 479px) 100vw, (max-width: 767px) 95vw, (max-width: 991px) 92vw, 963px"
-                                srcset="assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section-p-500.webp 
-                                500w, assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section-p-800.webp 800w,
-                                 assets/images/65fb19d905de57ad3c161326_Image-Placeholder-Hero-Section.webp 963w"
-                                alt="" class="hero-image">
-                            <div id="w-node-e77953c5-c788-89a5-18ae-d4599855daf7-51e76b9e" class="home-hero-icon pet-1">
-                                <img src="assets/images/65fb19d7123e477c2197c30e_Header-Image-Placeholder-2.webp"
+                                srcset="assets/images/poule_viande.jpg "  alt="" class="hero-image ">
+                            <div id="w-node-e77953c5-c788-89a5-18ae-d4599855daf7-51e76b9e" 
+                            style="text-align: end;"
+                            class="home-hero-icon pet-1">
+                                <img src="assets/images/poule3.jpeg"
+                                                            style="width:30%;height:30%;  border-radius: 50%;
+                                                            border: 5px solid var(--secondary);"
+
                                     loading="eager" alt="" class="thumbnail-image"></div>
-                            <div class="home-hero-icon pet-2"><img
-                                    src="assets/images/65fb19d88c0be93124105073_Header-Image-Placeholder-1.webp"
+                            <div class="home-hero-icon pet-2"><img 
+                            style="width:30%;height:30%;  border-radius: 50%;border: 5px solid var(--secondary);"
+                                    src="assets/images/poule_pondeuse.png"
                                     loading="eager" alt="" class="thumbnail-image"></div>
-                            <div id="w-node-_7ebe2cf4-2429-11a2-283a-3fd44724a031-51e76b9e"
-                                class="home-hero-icon pet-3"><img
-                                    src="assets/images/65fb19d7ec0618b353ae7ebf_Header-Image-Placeholder-.webp"
-                                    loading="eager" alt="" class="thumbnail-image"></div>
+                            <!-- <div id="w-node-_7ebe2cf4-2429-11a2-283a-3fd44724a031-51e76b9e"
+                                class="home-hero-icon pet-5"><img
+                                   src="assets/images/poule_pondeuse.png"
+                                                            style="width:30%;height:30%;  border-radius: 50%;
+                                                            border: 5px solid var(--secondary);"
+ loading="eager" alt="" class="thumbnail-image"></div> -->
                             <div id="w-node-_2fa99bd2-1b63-0ec1-b1a2-60b6c141ba7d-51e76b9e"
                                 class="home-hero-icon pet-4"><img
-                                    src="assets/images/65fb19d708683e7050c425e5_Header-Image-Placeholder-4.webp"
-                                    loading="eager" alt="" class="thumbnail-image"></div>
+ src="assets/images/poule4.jpg"
+                                                            style="width:30%;height:30%;  border-radius: 50%;
+                                                            border: 5px solid var(--secondary);"                                    loading="eager" alt="" class="thumbnail-image"></div>
                         </div>
                     </div>
                     <div class="background-design-wrapper">
