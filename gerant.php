@@ -36,16 +36,7 @@
         <div class="menu-button-2 w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button"
             tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
             <div class="icon-2 w-icon-nav-menu"></div>
-       </div> <!-- <a href="donation.html" data-w-id="ae3556ba-4943-dd10-1e26-c6c49da350a7"
-            class="button-full-navbar w-inline-block"
-            style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="button-full-text-wrapper" style="color: rgb(53, 76, 8);">
-                <div class="button-text">Donate Now</div>
-            </div>
-            <div class="button-full-background"
-                style="display: block; transform: translate3d(0px, 102%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            </div>
-        </a> -->
+       </div>
     </div>
     <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div>
     </div>
@@ -58,9 +49,7 @@
                             src="assets\images\BAF_logo_1.jpg"
                             loading="lazy" alt="" class="team-member-image-style"></div>
                     <div class="team-detail-hero-content">
-                        <!-- <h4 data-w-id="d1c35641-b67a-5c2d-8d3f-49906c9ded43"
-                            style="transform: translate3d(0px, 0.3552px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d; will-change: transform;"
-                            class="sub-title team-member">Gérant</h4> -->
+                      
                             <h3 data-w-id="d1c35641-b67a-5c2d-8d3f-49906c9ded45"
                             style="transform: translate3d(0px, 1.30784px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 0.99179; transform-style: preserve-3d; will-change: opacity, transform;"
                             class="title team-member">Gérant</h3>
