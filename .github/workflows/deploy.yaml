@@ -7,7 +7,6 @@ on:
 
 jobs:
   ftp-deploy:
-    name: Upload to InfinityFree
     runs-on: ubuntu-latest
 
     steps:
