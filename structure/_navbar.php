@@ -100,7 +100,7 @@
                                                 data-w-id="ae3556ba-4943-dd10-1e26-c6c49da35089" href="about.php"
                                                 class="nav-pet-grid w-inline-block" tabindex="0">
                                                 <div class="navbar-featured-image"><img
-                                                        src="assets/images/logo_bioanimaliafeed.png"
+                                                        src="assets/images/BAF_logo_1.jpg"
                                                         loading="lazy" alt="" class="nav-image-style"
                                                         style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
                                                 </div>
