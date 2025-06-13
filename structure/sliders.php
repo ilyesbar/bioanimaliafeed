@@ -15,35 +15,43 @@
       position: absolute;
       bottom: 30px;
       left: 5%;
-      color: rgb(246, 255, 230);
+      color: var(--tertiary);
+     
 width: 90%;
 text-align: center;
 
        will-change: background;
-    background-color: var(--tertiary);
-     
+    background-color:rgb(246, 255, 230); 
       padding: 15px 20px;
       font-size: 1.5rem;
       font-weight: bold;
       border-radius: 8px;
+      opacity: 0.75;
     }
+    .owl-carousel .item {
+    border-radius: 10px;}
     .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{display: none;}
   </style>
 
-<section class="section padding-global ">
+<section class="section padding-global " style="background:url('assets/images/009/bg_green.jpg');
+ no-repeat center center; background-size: cover; padding-top:10px">
     <div class="w-layout-blockcontainer container-large w-container">
 <div class="owl-carousel owl-theme">
-  <div class="item" style="background-image: url('assets/images/slides/aliment-poule.jpg');">
+  <div class="item" style="background-image: url('assets/images/slides/mouton.jpg');">
     <div class="slogan">L'excellence nutritionnelle au service de l'élevage national</div>
   </div>
-  <div class="item" style="background-image: url('assets/images/slides/poule_ouefs.jpg');">
+  <div class="item" style="background-image: url('assets/images/slides/poule_pondeuse.png');">
     <div class="slogan">Fiabilité & Performance Animale</div>
   </div>
-  <div class="item" style="background-image: url('assets/images/slides/poule3.jpeg');">
-    <div class="slogan">Votre performance, notre priorité </div>
-  </div>
+ 
   <div class="item" style="background-image: url('assets/images/slides/vaches3.jpg');">
     <div class="slogan">Votre performance, notre priorité </div>
+  </div>
+   <div class="item" style="background-image: url('assets/images/slides/poules77.jpg');">
+    <div class="slogan">Votre performance, notre priorité </div>
+  </div>
+   <div class="item" style="background-image: url('assets/images/slides/dinde.jpg');">
+    <div class="slogan">Produits de qualité pour des animeaux en bonne santé </div>
   </div>
 </div>
 </div></section>
