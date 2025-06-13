@@ -57,6 +57,8 @@
     <div id="page-wrapper" class="page-wrapper">
         <?php include('structure/_navbar.php'); ?>
         <main class="main-wrapper">
+               <?php include('structure/sliders.php'); ?>
+             <?php include('structure/carousel_prod.php'); ?>
              <?php include('structure/mission.php'); ?>
                <?php include('structure/fournisseurs.php'); ?>
            <?php include('structure/expert.php'); ?>
@@ -91,7 +93,7 @@
            
 
 
-            <section class="section padding-global padding-section-medium">
+            <!-- <section class="section padding-global padding-section-medium">
                 <div class="w-layout-blockcontainer container-large w-container">
                     <div class="home-featured-blog-content-v2 max-width-large text-align-center">
                         <h2 data-w-id="fb462289-f3a8-22b1-6e12-f86a273d7905"
@@ -216,7 +218,7 @@
                         <div class="background-design-element bottom-right-80px"></div>
                     </div>
                 </div>
-            </section>
+            </section> -->
            
             
             <a href="#page-wrapper" data-w-id="8f827f89-6747-95e9-411d-0e906dcaed6e"
