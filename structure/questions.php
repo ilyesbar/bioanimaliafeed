@@ -27,9 +27,7 @@
     });
   });
 </script>
-<style>
-    .green_color {color:var(--tertiary);}
-</style>
+
 <!-- 
               <section class="section padding-global padding-section-small">
                 <div class="w-layout-blockcontainer container-large w-container"> -->
@@ -50,7 +48,7 @@
                             class="faq-content-wrapper max-width-large">
                             <h2 
                                 style="transform: translate3d(0px, 32px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
-                                class="title faq-volunteer green_color"> Nos valeurs fondamentales </h2>
+                                class="title faq-volunteer "> Nos Valeurs <span class="text-span">Fondamentales</span>  </h2>
                             <div class="spacer-small"></div>
                             <p 
                                 style="transform: translate3d(0px, 32px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
