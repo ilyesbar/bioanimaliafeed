@@ -126,7 +126,8 @@
             <div id="w-node-_5650b8c5-b644-2a79-c591-fef01bed340d-a41a576e"
                 data-w-id="5650b8c5-b644-2a79-c591-fef01bed340d"
                 style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
-                class="home-mission-image-v2"><img
+                class="home-mission-image-v2">
+                <img 
                     src="assets/images/poules_mx.jpg" loading="lazy"
                     sizes="(max-width: 479px) 100vw, (max-width: 767px) 45vw, (max-width: 991px) 43vw, (max-width: 1439px) 94vw, (max-width: 1919px) 95vw, 1600px"
                     alt="" class="mission-image-style-v2"></div>
