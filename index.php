@@ -9,19 +9,17 @@
         <?php include('structure/_navbar.php'); ?>
         <main class="main-wrapper">
                <?php include('structure/sliders.php'); ?>
-             <?php include('structure/carousel_prod.php'); ?>
-             <?php include('structure/mission.php'); ?>
               
-           <?php include('structure/expert.php'); ?>
-            
-            <?php include('structure/qui_nous_sommes.php'); ?>
-<!-- 
-            <?php include('structure/notre_mission.php'); ?> -->
+         
+      
+
 
           
            <?php  include('structure/difference.php'); ?>
 
+             <?php include('structure/carousel_prod.php'); ?>
 
+             <?php include('structure/mission.php'); ?>
 
 
             <!---------------------------------------------------------------------------------------------------->
@@ -29,11 +27,11 @@
         
 
           <?php  include('structure/plan_avenir.php'); ?>
-            <!----------------------------------------------------µµµµ
-            µµµµµ
-            µµµµµ
+            <!----------------------------------------------------
             --->
            <?php  include('structure/questions.php'); ?>
+            <?php include('structure/qui_nous_sommes.php'); ?>
+           <?php include('structure/team.php'); ?>
             <?php include('structure/fournisseurs.php'); ?>
             <!-------------************************
             *****************************************

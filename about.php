@@ -60,7 +60,7 @@
                  <?php include('structure/expert.php'); ?>
                   <?php include('structure/qui_nous_sommes.php'); ?>
                    <?php  include('structure/plan_avenir.php'); ?>
-             <?php include('structure/mission.php'); ?>
+             <!-- <?php include('structure/mission.php'); ?> -->
                 <!-- <?php include('structure/notre_mission.php'); ?> -->
 
 

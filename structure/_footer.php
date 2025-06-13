@@ -33,11 +33,10 @@
                             </div>
                             <div id="w-node-_9684380e-b5cd-659b-56da-370ab0bbea5b-b0bbea44" class="footer-adopt-nav">
                                 <h4 class="title footer">Accueil</h4>
-                                <a href="/dog-gallery" class="footer-nav-links">Nos produits</a>
-                                <a href="/cat-gallery" class="footer-nav-links">À propos</a>
-                                <a href="volunteer.html " class="footer-nav-links">Contact</a>
-                                <a href="/team" class="footer-nav-links">Équipe</a>
-                            </div>
+                                <a href="./products.php" class="footer-nav-links">Produits</a>
+                                <a href="./about.php" class="footer-nav-links">À propos</a>
+                                <a href="./contact.php" class="footer-nav-links">Contact</a>
+                                </div>
 
                            
                             <div id="w-node-_9684380e-b5cd-659b-56da-370ab0bbea75-b0bbea44" class="footer-resource-bav">
