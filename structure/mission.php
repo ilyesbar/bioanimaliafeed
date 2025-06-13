@@ -130,7 +130,7 @@
                 <!-- <img src="assets/images/poulle00.png" loading="lazy"
                     alt="" class="mission-image-style-v2"> -->
                 <img
-                    src="assets/images/combainaison.jpg" loading="lazy"
+                    src="assets/images/poulle00.png" loading="lazy"
                     alt="" class="mission-image-style-v2">
                 </div>
         </div>
