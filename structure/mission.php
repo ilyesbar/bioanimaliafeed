@@ -7,7 +7,7 @@
             <h2 data-w-id="8a4954b4-cd42-cabc-e459-4ee1d7b0da2a"
                 style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
                 class="title home-v2-services">Objectif <span class="text-span"> Principal </span></h2>
-            <div class="spacer-small"></div>
+             <div class="spacer-small"></div>
             <p data-w-id="8a4954b4-cd42-cabc-e459-4ee1d7b0da2e"
                 style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); opacity: 1; transform-style: preserve-3d;"
                 class="paragraph home-v2-services">Boostez la productivité de votre élevage avec des solutions sur-mesure !</p>
