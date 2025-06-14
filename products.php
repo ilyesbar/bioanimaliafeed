@@ -13,6 +13,7 @@
       
            <?php  include('structure/_main_content.php'); ?>
 
+<?php include('structure/tableau.php'); ?>
 
              <?php include('structure/carousel_prod.php'); ?>
 
