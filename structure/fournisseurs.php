@@ -19,25 +19,35 @@
     <div class="logo-overlay-style"></div>
     <div class="cta-logo-wrapper margin-top"
         style="transform: translate3d(-1.999%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform;">
-        <img src="assets/images/Metex.jpg" loading="lazy" alt=""
+        <img src="assets/images/fournisseurs/Metex.jpg" loading="lazy" alt=""
             class="cta-logo-size">
-            <img src="assets/images/orfa.jpg" loading="lazy"
+            <img src="assets/images/fournisseurs/orfa.jpg" loading="lazy"
             alt="" class="cta-logo-size">
-            <img src="assets/images/miavit.jpg"
+            <img src="assets/images/fournisseurs/miavit.jpg"
             loading="lazy" alt="" class="cta-logo-size"><img
-            src="assets/images/Aliphos.jpg" loading="lazy" alt=""
+            src="assets/images/fournisseurs/Aliphos.jpg" loading="lazy" alt=""
             class="cta-logo-size">
-            <img src="assets/images/evonik.jpg" loading="lazy"
+            <img src="assets/images/fournisseurs/evonik.jpg" loading="lazy"
             alt="" class="cta-logo-size">
     </div>
     <div class="cta-logo-wrapper margin-top"
         style="transform: translate3d(-1.999%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform;">
-        <img src="assets/images/.jpg" loading="lazy" alt=""
-            class="cta-logo-size"><img src="assets/images/apollon.jpg" loading="lazy"
-            alt="" class="cta-logo-size"><img src="assets/images/alonomoto.jpg"
+        <img src="assets/images/fournisseurs/.jpg" loading="lazy" alt=""
+            class="cta-logo-size"><img src="assets/images/fournisseurs/apollon.jpg" loading="lazy"
+            alt="" class="cta-logo-size"><img src="assets/images/fournisseurs/alonomoto.jpg"
             loading="lazy" alt="" class="cta-logo-size"><img
-            src="assets/images/Asisseo.jpg" loading="lazy" alt=""
-            class="cta-logo-size"><img src="assets/images/Metex.jpg" loading="lazy"
+            src="assets/images/fournisseurs/Asisseo.jpg" loading="lazy" alt=""
+            class="cta-logo-size"><img src="assets/images/fournisseurs/Metex.jpg" loading="lazy"
+            alt="" class="cta-logo-size">
+    </div>
+    <div class="cta-logo-wrapper margin-top"
+        style="transform: translate3d(-1.999%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d; will-change: transform;">
+        <img src="assets/images/fournisseurs/.jpg" loading="lazy" alt=""
+            class="cta-logo-size"><img src="assets/images/fournisseurs/mfi.jpg" loading="lazy"
+            alt="" class="cta-logo-size"><img src="assets/images/fournisseurs/Adisseo.jpg"
+            loading="lazy" alt="" class="cta-logo-size"><img
+            src="assets/images/fournisseurs/Asisseo.jpg" loading="lazy" alt=""
+            class="cta-logo-size"><img src="assets/images/fournisseurs/Metex.jpg" loading="lazy"
             alt="" class="cta-logo-size">
     </div>
 </div>

@@ -5,6 +5,7 @@ border: 2px solid var(--tertiary);}
 .small-image { border: 2px solid var(--primary);} 
     .gallery-container img{object-fit:contain;}
 </style>
+<div class="section padding-global padding-section-medium hero-v3">
 <section class="section padding-global padding-section-small">
     
 
@@ -45,3 +46,4 @@ border: 2px solid var(--tertiary);}
     </div>
     <div class="w-layout-blockcontainer container-large w-container"></div>
 </section>
+</div>
