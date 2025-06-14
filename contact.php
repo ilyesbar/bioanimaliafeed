@@ -8,27 +8,7 @@
             outline: none;
         }
 
-        .team-card-wrapper {
-            background-color: var(--tertiary) !important;
-        }
-
-        .cl_white {
-            color: white;
-        }
-
-        .team-card-info.x1 {
-            top: 1.5% !important;
-            bottom: auto !important;
-
-            /* background-color: var(--primary) !important; */
-            padding-top: 20px !important;
-        }
-
-        .team-card-info.x2 {
-            top: auto !important;
-            bottom: 1.5% !important;
-            padding-top: 20px !important;
-        }
+       
     </style>
     <meta charset="utf-8">
     <title>Notre Équipe | Bioanimalia feed website template</title>

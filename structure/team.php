@@ -1,3 +1,24 @@
+<style> .team-card-wrapper {
+            background-color: var(--tertiary) !important;
+        }
+
+        .cl_white {
+            color: white;
+        }
+
+        .team-card-info.x1 {
+            top: 1.5% !important;
+            bottom: auto !important;
+
+            /* background-color: var(--primary) !important; */
+            padding-top: 20px !important;
+        }
+
+        .team-card-info.x2 {
+            top: auto !important;
+            bottom: 1.5% !important;
+            padding-top: 20px !important;
+        }</style>
 <section id="hero-section" class="section padding-global padding-section-medium">
                 <div class="w-layout-blockcontainer container-large w-container">
                     <div class="team-hero-content max-width-large align-center">
@@ -61,7 +82,7 @@
 
                                         </div>
 
-                                        <div class="team-social-icon-wrapper">
+                                        <div class="team-social-icon-wrapper xlc">
                                             <div data-w-id="f4fc0ef8-02af-a0da-fbb8-3ad4efc9db9f"
                                                 class="team-social-icons">
                                                 <div style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"
@@ -158,7 +179,7 @@
 
                                         </div>
 
-                                        <div class="team-social-icon-wrapper">
+                                        <div class="team-social-icon-wrapper xlc">
                                             <div data-w-id="f4fc0ef8-02af-a0da-fbb8-3ad4efc9db9f"
                                                 class="team-social-icons">
                                                 <div style="transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;"

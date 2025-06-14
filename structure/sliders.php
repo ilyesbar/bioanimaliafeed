@@ -32,16 +32,15 @@ text-align: center;
     border-radius: 10px;}
     .owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev, .owl-carousel button.owl-dot{display: none;}
   </style>
+<section class="section padding-global" style="background:url('assets/images/009/bg_green.jpg'); no-repeat center; background-size: cover; padding-top:10px">
 
-<section class="section padding-global " style="background:url('assets/images/009/bg_green.jpg');
- no-repeat center center; background-size: cover; padding-top:10px">
     <div class="w-layout-blockcontainer container-large w-container">
 <div class="owl-carousel owl-theme">
   
-  <div class="item" style="background-image: url('assets/images/slides/poule_pondeuse.png');">
+  <div class="item" style="background-image: url('assets/images/slides/poules77.jpg');">
     <div class="slogan">Fiabilité & Performance Animale</div>
   </div>
-  <div class="item" style="background-image: url('assets/images/slides/mouton.jpg');">
+  <div class="item" style="background-image: url('assets/images/slides/Feed-Mix.jpg');">
     <div class="slogan">L'excellence nutritionnelle au service de l'élevage national</div>
   </div>
  <div class="item" style="background-image: url('assets/images/slides/dinde.jpg');">
@@ -50,7 +49,7 @@ text-align: center;
   <div class="item" style="background-image: url('assets/images/slides/vaches3.jpg');">
     <div class="slogan">Votre performance, notre priorité </div>
   </div>
-   <div class="item" style="background-image: url('assets/images/slides/poules77.jpg');">
+   <div class="item" style="background-image: url('assets/images/slides/poule_pondeuse.jpg');">
     <div class="slogan">Votre performance, notre priorité </div>
   </div>
    

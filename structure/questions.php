@@ -40,7 +40,7 @@
                                 
                                               opacity: 1; transform-style: preserve-3d;"
                             class="faq-image-wrapper"><img
-                                src="assets/images/bioanimalia.jpg" loading="lazy"
+                                src="assets/images/goats-farm-sunny-day.jpg" loading="lazy"
                                 sizes="(max-width: 991px) 100vw, (max-width: 1279px) 800px, 768px"
                                 alt="" class="faq-image-style"
                                 style=" border-radius :20px; "></div>

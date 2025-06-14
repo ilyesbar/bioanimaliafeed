@@ -16,10 +16,11 @@
       padding: 10px;
       text-align: center;
       vertical-align: middle;
+      color: var(--tertiary);
     }
 
     th {
-      background-color: var(--primarry);
+      background-color:rgb(246, 255, 230)
      
     }
 
@@ -41,6 +42,9 @@
 
               
                     <section class="section padding-global padding-section-medium">
+                       <div class="spacer-small"></div>
+                       
+                        <div class="spacer-medium"></div>
                 <div class="w-layout-blockcontainer container-large w-container">
                     <div class="home-featured-blog-content-v2 max-width-large text-align-center">
                           <h3 data-w-id="fb462289-f3a8-22b1-6e12-f86a273d7907"
